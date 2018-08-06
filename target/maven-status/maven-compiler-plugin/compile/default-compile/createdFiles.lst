@@ -1,0 +1,4 @@
+org/univalle/flink/Query$Tokenizer.class
+org/univalle/flink/Query.class
+org/univalle/parser/Sparql2Flink.class
+org/univalle/flink/util/WordCountData.class
